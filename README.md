@@ -1,1 +1,1 @@
-# Teoria-dos-Grafos-2---Projeto-1-Rotas-log-sticas
+# Para visualizar as saídas dos cenários 1 e 2 e o caso de teste, execute a classe Main.
